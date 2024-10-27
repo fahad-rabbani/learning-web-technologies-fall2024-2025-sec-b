@@ -1,0 +1,29 @@
+<Mobile.Company>
+    <mobile>
+        <Id>11</Id>
+        <Name>Samsung</Name>
+        <Unite.price>35000</Unite.price>
+        <stock>50</stock>
+        <Status>1</Status>
+       
+        
+    </mobile>
+    <mobile>
+        <Id>20</Id>
+        <Name>Htc</Name>
+        <Unite.price>65300</Unite.price>
+        <stock>35</stock>
+        <Status>0</Status>
+       
+        
+    </mobile>
+    <mobile>
+        <Id>23</Id>
+        <Name>Nokia</Name>
+        <Unite.price>25100</Unite.price>
+        <stock>100</stock>
+        <Status>1</Status>
+       
+        
+    </mobile>
+</Mobile.Company>
